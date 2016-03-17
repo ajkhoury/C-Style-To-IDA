@@ -1,4 +1,3 @@
-import sys
 import re
 
 def get_input(prompt):
